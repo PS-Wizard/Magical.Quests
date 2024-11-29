@@ -4,14 +4,14 @@
 
 - Go Minimax Connect 4
     - Golang Backend
-    - Solid Frontend
+    - Svelte Frontend
 
 - Obsidian Graph View Web App But Point To A Repo
     - Should Support:
         - Local Repos
         - Github Repos
     - Go Backend
-    - Solid Frontend
+    - Svelte Frontend
 
 - SSavr Clone
 
@@ -21,13 +21,13 @@
         - Turn Management
         - Check/mate Detection
         - PGN Encoding
-        - GUI Solidjs
+        - GUI SVelte
     - Depending on how well that goes:
         - Add A Chess Engine 
         - Other Stuff like 50 move rule. 
 
 - Portfolio website
-    - Solid js:
+    - Svelte js:
     - Inspos:
         - [deno](https://deno.com/)
 
